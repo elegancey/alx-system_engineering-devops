@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'n'
+tac |tr -d 'n'
